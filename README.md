@@ -16,3 +16,4 @@
 13. Run below command after installing docker in your EC2 instance or VM
 14. docker run -d --name mywebapp -p 80:80 dev4devops/interio:intimg1
 15. Find IP of your machin and type that IP into your browser.
+![image](https://github.com/dev4divine/dev4devops/assets/37863153/1195570c-ff35-42af-992b-e70f3db3e7b2)
